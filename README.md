@@ -1,19 +1,23 @@
 # Airtel Customer Service Chatbot--Using RAG 
 
-![image](https://github.com/user-attachments/assets/fa5d066e-9ac6-4b26-a1e7-9f4d945dfc38)
+![image](https://github.com/user-attachments/assets/1e66853c-f1e3-487c-9f2a-7d12301215cb)
 
 
 
 An AI-powered customer service chatbot for Airtel telecommunications.
 
 ## Interface :
-![Screenshot 2025-06-06 224240](https://github.com/user-attachments/assets/6fa517a0-0104-4b43-b549-f744350d0bf2)
+![Screenshot 2025-06-06 224240](https://github.com/user-attachments/assets/86e2aeb8-9a98-42f6-b96c-b54f71baa299)
 
 
 ## AFTER CHAT:
 
 
-https://github.com/user-attachments/assets/ea85abbf-05b4-4b53-b0ba-e5d2fd3aa588
+
+
+https://github.com/user-attachments/assets/30bd9c67-e679-4b20-b4bb-4aba22773295
+
+
 
 
 ## Features
