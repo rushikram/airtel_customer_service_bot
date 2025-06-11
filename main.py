@@ -7,11 +7,13 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.vectorstores import FAISS
 from langchain_core.prompts import ChatPromptTemplate
 from dotenv import load_dotenv
+import streamlit as st
 
 
 # Load environment variables from .env file
 load_dotenv()
-GROQ_API_KEY = os.getenv("GROQ_API_KEY") 
+GROQ_API_KEY = os.getenv("GROQ_API_KEY") or st.secrets["GROQ_API_KEY"]
+
 
 
 if not GROQ_API_KEY:
